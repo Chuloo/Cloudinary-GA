@@ -1,0 +1,20 @@
+{
+  "name": "cl-mp-analytics",
+  "version": "1.0.0",
+  "description": "A cloudinary video analytics demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "William Imoh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cloudinary-core": "^2.4.0",
+    "cloudinary-video-player": "^1.0.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4"
+  }
+}

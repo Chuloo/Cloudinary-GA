@@ -1,0 +1,24 @@
+body, main, header{
+    margin: 0px;
+    padding: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    margin: 0px auto;
+    padding: 70px 0px;
+    width: 50%;
+    text-align: center;
+}
+header{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-bottom: 2px solid grey;
+}
+main{
+    width: 80%;
+    margin: 20px auto;
+}
+
