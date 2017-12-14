@@ -18,5 +18,4 @@ app.get('/', (req,res) => {
 app.listen(port, (err) =>{
     if(err) throw err;
     console.log('App is booming on the legendary port 1995!!')
-    // window.open('localhost:1995', '_blank')
 })

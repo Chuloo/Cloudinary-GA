@@ -8,4 +8,4 @@ var cl = cloudinary.Cloudinary.new({cloud_name:'chuloo', secure:true})
      analytics:true
  })
 
- myPlayer.source('airboy-video', {info:{ title: 'Ayepo Remix', subtitle:'Airboy Rado ft BurnaBoy'}})
+ myPlayer.source('merry-christmas', {info:{ title: 'Little Drummer Boy', subtitle:'Pentatonix'}})
